@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=180&section=header&text=Hi%20There!%20I'm%20Katiana%20✨%20&fontSize=30&fontColor=FFFFFF&animation=FadeIn&fontAlignY=38&&descAlignY=80&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=180&section=header&text=Hi%20There!%20I'm%20Katiana%20✨%20&fontSize=30&fontColor=9A9A9&animation=FadeIn&fontAlignY=38&&descAlignY=80&descAlign=62)
 
 I'm a physics-informed machine learning Ph.D. candidate at Johns Hopkins University. I am mostly interested on improving surrogate models for complex physics-based problems involving nonlinear partial differential equations under uncertainty.
 
