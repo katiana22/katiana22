@@ -7,6 +7,3 @@ I'm a physics-informed machine learning Ph.D. candidate at Johns Hopkins Univers
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=katiana22&style=flat&color=313131&label=views&labelColor=313131)
-
-
