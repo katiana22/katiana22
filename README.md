@@ -7,3 +7,4 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=katiana22&show_icons=true)  
